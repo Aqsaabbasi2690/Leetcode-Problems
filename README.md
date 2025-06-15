@@ -70,8 +70,7 @@ If you:
 ## 📬 Connect with Me
 
 📌 GitHub: [Aqsa Abbasi](https://github.com/Aqsaabbasi2690)  
-📌 LinkedIn: [Your LinkedIn Profile Link] *(optional)*  
-📌 Email: [Your Email Address] *(optional)*
+
 
 ---
 
