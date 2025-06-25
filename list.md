@@ -19,3 +19,17 @@
 | 14 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy |
 | 15 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy |
 | 16 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy |
+| 17 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                                           | Easy       |
+| 18 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                       | Easy       |
+| 19 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                       | Easy       |
+| 20 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                     | Easy       |
+| 21 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy       |
+| 22 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                                     | Easy       |
+| 23 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)                                     | Easy       |
+| 24 | [Majority Element](https://leetcode.com/problems/majority-element)                                             | Easy       |
+| 25 | [Maximum Sum with Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)       | Easy       |
+| 26 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy       |
+| 27 | [Single Number](https://leetcode.com/problems/single-number/)                                                   | Easy       |
+
+
+
