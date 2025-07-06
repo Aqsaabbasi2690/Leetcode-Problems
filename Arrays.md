@@ -29,7 +29,35 @@
 | 24 | [Majority Element](https://leetcode.com/problems/majority-element)                                             | Easy       |
 | 25 | [Maximum Sum with Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)       | Easy       |
 | 26 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy       |
-| 27 | [Single Number](https://leetcode.com/problems/single-number/)                                                   | Easy       |
-
-
+| 27 | [Single Number](https://leetcode.com/problems/single-number/)                                                   | Easy       
+| 28| [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)             | Easy       |
+| 29 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)         | Easy       |
+| 30 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)               | Easy       |
+| 31 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/)           | Easy       |
+| 32 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                     | Easy       |
+| 33 | [Remove Element](https://leetcode.com/problems/remove-element/)                                                 | Easy       |
+| 34 | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/)               | Easy       |
+| 35 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)                 | Easy       |
+| 36 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| 37 | [Missing Number](https://leetcode.com/problems/missing-number/)                                                 | Easy       |
+| 38 | [Special Array I](https://leetcode.com/problems/special-array-i/)                                               | Easy       |
+| 39 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | Easy |
+| 40 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)                                 | Easy       |
+| 41 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)                                     | Easy       |
+| 42 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)                               | Easy       |
+| 43 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| 44 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                           | Easy       |
+| 45 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)                                       | Easy       |
+| 46 | [Height Checker](https://leetcode.com/problems/height-checker/)                                                 | Easy       |
+| 47 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/)                       | Easy       |
+| 48 | [Minimum-number-of-moves-to-seat-everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | Easy     |
+| 49 | [Array-partition](https://leetcode.com/problems/array-partition/)                   | Easy   |
+| 50 | [Sort-the-people](https://leetcode.com/problems/sort-the-people/) | Easy   |
+| 51 | [Number-of-students-unable-to-eat-lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy   |
+| 52 | [Count-pairs-that-form-a-complete-day-i](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | Easy   |
+| 53 | [Move-zeroes](https://leetcode.com/problems/move-zeroes/) | Easy   |
+| 54 | [Final-prices-with-a-special-discount-in-a-shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Easy   |
+| 55 | [Three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy  |
+| 56 | [Number-of-senior-citizens](https://leetcode.com/problems/number-of-senior-citizens) | Easy  |
+| 57 | [Make-two-arrays-equal-by-reversing-subarrays/](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | Easy  |
 
